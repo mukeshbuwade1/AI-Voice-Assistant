@@ -1,0 +1,1 @@
+export const openAI_KEY= "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"
